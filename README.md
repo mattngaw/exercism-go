@@ -1,4 +1,4 @@
-![gopher](https://c.tenor.com/nzjirRrbOWgAAAAi/gopher-golang.gif)
+<img src="https://c.tenor.com/nzjirRrbOWgAAAAi/gopher-golang.gif" style="width: 40%"/>
 
 # Exercism Go
 
